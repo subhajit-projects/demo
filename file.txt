@@ -1,6 +1,6 @@
 File 1
 
-Test 1 added
+Text 1 added
 
 Text 2 Added
 
