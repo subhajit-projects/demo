@@ -2,6 +2,10 @@ File 1
 
 Text 1 added
 
+Text 2 Added
+
+Text 3 Added
+
 Text 5 added
 
 Text 6 added
