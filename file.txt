@@ -3,3 +3,5 @@ File 1
 Test 1 added
 
 Text 2 Added
+
+Text 3 Added
